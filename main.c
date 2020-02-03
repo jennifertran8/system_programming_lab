@@ -14,6 +14,7 @@ int​ main​(​void) {
   printf("enter your whole name: %s %c %s \n", first_name, initial, last_name);
 
   printf("you are %d miles", distance);
-
+  printf​(​"You have %f levels of power.\n"​,​ power​); 
+  printf​(​"You have %f awesome super powers.\n"​,​ super_power​); 
   return 0;
 }
